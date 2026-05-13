@@ -5,4 +5,4 @@
 # demo2026sa manual
 [manual](2026.pdf)
 [manual_new](manual1_2.pdf)
-[ага](Отчёт Владимир.docx)
+[ага](vladimir.docx)
